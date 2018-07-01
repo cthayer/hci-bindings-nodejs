@@ -1,0 +1,8 @@
+{
+  "name": "@cdmnky/hci-bindings",
+  "version": "0.0.7",
+  "main": "lib/bindings.js",
+  "dependencies": {
+    "bleno": "^0.5.0"
+  }
+}
